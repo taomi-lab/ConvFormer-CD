@@ -1,2 +1,2 @@
-# SCUNet
+# ConvFormer-CD
 code is comming soon
